@@ -1,0 +1,2 @@
+connect 'C:\Users\DELL\Desktop\NUEVOS.FDB' user 'SYSDBA' password 'masterkey'; CREATE TABLE PERROS( 
+, RENE FLOAT  (10) PRIMARY KEY,  FLOAT  (),  FLOAT  (),  FLOAT  (),  FLOAT  (),  FLOAT  (),  FLOAT  ()

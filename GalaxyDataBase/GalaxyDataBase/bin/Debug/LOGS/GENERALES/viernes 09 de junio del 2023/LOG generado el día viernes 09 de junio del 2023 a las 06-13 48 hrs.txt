@@ -1,0 +1,7 @@
+Tiempo inicio aplicación: 09/06/2023 06:13:48 a. m.
+SCIRPT
+connect 'C:\Users\DELL\Documents\Basess.FDB' user 'SYSDBA' password 'masterkey'; CREATE TABLE rene( 
+, Rodrigo VARCHAR (100) PRIMARY KEY, Jose VARCHAR (20) PRIMARY KEY);
+CORRECTO
+NINGUNO
+Tiempo fin aplicación: 09/06/2023 06:13:48 a. m.

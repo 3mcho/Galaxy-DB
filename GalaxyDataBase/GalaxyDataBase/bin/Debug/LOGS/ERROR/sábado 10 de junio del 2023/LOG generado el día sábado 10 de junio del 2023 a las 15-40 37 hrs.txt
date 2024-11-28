@@ -1,0 +1,11 @@
+Tiempo inicio aplicación: 10/06/2023 15:40:37
+SQL
+SELECT * FROM BASESDEDATOS;
+ERRONEO
+System.InvalidOperationException: Connection String is not initialized.
+   en FirebirdSql.Data.FirebirdClient.FbConnection.Open()
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   en GalaxyDataBase.ClassBasesDeDatos.EjecutarSQL_QUERY(String vSQL) en C:\Users\Lucio\Documents\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\ClassBasesDeDatos.cs:línea 82
+Tiempo fin aplicación: 10/06/2023 15:40:37

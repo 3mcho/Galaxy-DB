@@ -1,0 +1,6 @@
+Tiempo inicio aplicación: 09/06/2023 06:51:44 a. m.
+CREACION DE USUARIO
+ADD 'Rodrigo' -pw 'Rene09'
+CORRECTO
+NINGUNO
+Tiempo fin aplicación: 09/06/2023 06:51:44 a. m.

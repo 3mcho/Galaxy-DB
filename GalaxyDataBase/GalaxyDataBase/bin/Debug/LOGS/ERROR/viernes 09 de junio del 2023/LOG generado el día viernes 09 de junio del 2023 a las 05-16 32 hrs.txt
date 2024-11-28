@@ -1,0 +1,14 @@
+Tiempo inicio aplicación: 09/06/2023 05:16:32 a. m.
+SQL
+select * from BASESDEDATOS
+INCORRECTO
+FirebirdSql.Data.FirebirdClient.FbException (0x80004005): I/O error for file "C:\USERS\LUCIO\DESKTOP\BASE.FDB"
+Error while trying to open file ---> I/O error for file "C:\USERS\LUCIO\DESKTOP\BASE.FDB"
+Error while trying to open file
+   en FirebirdSql.Data.FirebirdClient.FbConnectionInternal.Connect()
+   en FirebirdSql.Data.FirebirdClient.FbConnectionPool.Create()
+   en FirebirdSql.Data.FirebirdClient.FbConnectionPool.CheckOut()
+   en FirebirdSql.Data.FirebirdClient.FbConnection.Open()
+   en GalaxyDataBase.Form1.ListarBasesDeDatosDisponibles() en C:\Users\DELL\Downloads\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\Form1.cs:línea 296
+   en GalaxyDataBase.Form1.Form1_Load(Object sender, EventArgs e) en C:\Users\DELL\Downloads\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\Form1.cs:línea 147
+Tiempo fin aplicación: 09/06/2023 05:16:32 a. m.

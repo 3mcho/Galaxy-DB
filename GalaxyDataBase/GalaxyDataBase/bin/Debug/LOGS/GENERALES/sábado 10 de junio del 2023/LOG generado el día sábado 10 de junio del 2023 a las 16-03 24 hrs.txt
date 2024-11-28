@@ -1,0 +1,17 @@
+Tiempo inicio aplicación: 10/06/2023 16:03:24
+SCIRPT
+CREATE DATABASE 'C:\Users\Lucio\Documents\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\bin\Debug\unabase.FDB' user 'SYSDBA' password 'masterkey';
+CONNECT 'C:\Users\Lucio\Documents\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\bin\Debug\unabase.FDB'user 'SYSDBA' password 'masterkey';
+
+CREATE TABLE prueba(
+Field01 varchar(20) NOT NULL,
+Field02 INTEGER NOT NULL,
+Field03 varchar(20) NOT NULL);
+
+CREATE TABLE table01(
+Field01 INTEGER NOT NULL,
+CAMPO2 INTEGER NOT NULL);
+
+CORRECTO
+NINGUNO
+Tiempo fin aplicación: 10/06/2023 16:03:24

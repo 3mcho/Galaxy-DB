@@ -1,0 +1,36 @@
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\bin\Debug\GalaxyDataBase.exe.config
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\bin\Debug\GalaxyDataBase.exe
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\bin\Debug\GalaxyDataBase.pdb
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\bin\Debug\Guna.UI2.dll
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.csproj.AssemblyReference.cache
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.Form1.resources
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.Properties.Resources.resources
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.csproj.GenerateResource.cache
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.csproj.CopyComplete
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.exe
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.pdb
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.AgregarBD.resources
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.Tablas.resources
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.AgregarUsuario.resources
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.Bienvenida.resources
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.Conexion.resources
+C:\Users\Lucio\source\repos\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.Respaldo_Restauracion.resources
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\bin\Debug\GalaxyDataBase.exe.config
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\bin\Debug\GalaxyDataBase.exe
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\bin\Debug\GalaxyDataBase.pdb
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.csproj.AssemblyReference.cache
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.AgregarBD.resources
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.AgregarUsuario.resources
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.Bienvenida.resources
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.Conexion.resources
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.Form1.resources
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.Properties.Resources.resources
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.Respaldo_Restauracion.resources
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.Tablas.resources
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.csproj.GenerateResource.cache
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.csproj.CoreCompileInputs.cache
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.csproj.CopyComplete
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.exe
+F:\LAPTOP\Tareas\Tercer Parcial\Taller de BD\GalaxyDataBase\GalaxyDataBase\GalaxyDataBase\obj\Debug\GalaxyDataBase.pdb

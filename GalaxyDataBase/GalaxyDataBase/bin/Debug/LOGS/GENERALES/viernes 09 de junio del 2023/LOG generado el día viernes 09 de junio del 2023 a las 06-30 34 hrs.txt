@@ -1,0 +1,6 @@
+Tiempo inicio aplicación: 09/06/2023 06:30:34 a. m.
+SQL
+select * from BASESDEDATOS
+EXITOSO
+NINGUNO
+Tiempo fin aplicación: 09/06/2023 06:30:34 a. m.

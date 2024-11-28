@@ -1,0 +1,7 @@
+Tiempo inicio aplicación: 09/06/2023 06:54:44 a. m.
+SCIRPT
+connect C:\Users\DELL\Desktop\NUEVOS.FDB user 'SYSDBA' password 'masterkey'; GRANT UPDATE ON TABLE  TO ;
+
+CORRECTO
+NINGUNO
+Tiempo fin aplicación: 09/06/2023 06:54:44 a. m.

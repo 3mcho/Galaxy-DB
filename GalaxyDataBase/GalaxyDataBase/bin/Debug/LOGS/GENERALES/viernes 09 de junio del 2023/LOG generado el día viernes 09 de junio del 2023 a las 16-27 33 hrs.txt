@@ -1,0 +1,6 @@
+Tiempo inicio aplicación: 09/06/2023 04:27:33 p. m.
+SQL
+select RUTADB from BASESDEDATOS where ALIAS = 'BASE'
+EXITOSO
+NINGUNO
+Tiempo fin aplicación: 09/06/2023 04:27:33 p. m.

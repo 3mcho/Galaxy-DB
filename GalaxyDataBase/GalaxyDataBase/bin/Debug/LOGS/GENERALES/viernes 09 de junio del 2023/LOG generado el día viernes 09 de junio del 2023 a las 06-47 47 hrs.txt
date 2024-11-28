@@ -1,0 +1,10 @@
+Tiempo inicio aplicación: 09/06/2023 06:47:47 a. m.
+SQL
+SELECT rdb$relation_name
+FROM rdb$relations
+WHERE rdb$view_blr IS NULL
+AND(rdb$system_flag IS NULL OR rdb$system_flag = 0)
+ORDER BY rdb$relation_name;
+EXITOSO
+NINGUNO
+Tiempo fin aplicación: 09/06/2023 06:47:47 a. m.
